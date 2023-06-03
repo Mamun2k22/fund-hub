@@ -1,0 +1,36 @@
+form input {
+    height: 40px;
+    border-bottom: 1px solid #FFD700;
+}
+
+form textarea {
+    border-bottom: 1px solid #FFD700;
+}
+
+form textarea {
+    border: 1px solid #FFD700;
+}
+
+textarea:focus {
+    outline: 2px solid #6b2c2c00;
+    border: 0px 0px 2px 0px solid #FFD700;
+}
+
+/* form input:hover {
+    border: 2px solid red;
+} */
+
+form .baton {
+    height: 38px;
+    width: 90px;
+    padding: 5px;
+
+
+
+}
+
+input:focus {
+    /* Safari */
+    outline: 2px solid #6b2c2c00;
+    border: 0px 0px 2px 0px solid #FFD700;
+}
